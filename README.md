@@ -6,3 +6,5 @@ A creative reference repository on subjects such as design, business development
 Design Kit - http://www.designkit.org/
 
 Project of How - http://projectofhow.com
+
+Open Design Kit - http://opendesignkit.org/
